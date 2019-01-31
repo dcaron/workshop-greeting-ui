@@ -7,4 +7,3 @@ applications:
   - workshop-config-server
   - workshop-cloud-bus
   - workshop-service-registry
-  - workshop-circuit-breaker-dashboard
